@@ -125,6 +125,54 @@
         "rom": "YAK",
         "en": "medicine",
         "category": "medicine"
+      },
+      {
+        "kr": "얼마예요?",
+        "rom": "",
+        "en": "How much is it?",
+        "category": "general"
+      },
+      {
+        "kr": "만원",
+        "rom": "",
+        "en": "10,000 won (~$7)",
+        "category": "general"
+      },
+      {
+        "kr": "비싸요",
+        "rom": "",
+        "en": "Expensive",
+        "category": "general"
+      },
+      {
+        "kr": "싸요",
+        "rom": "",
+        "en": "Cheap",
+        "category": "general"
+      },
+      {
+        "kr": "모기",
+        "rom": "",
+        "en": "Mosquito",
+        "category": "general"
+      },
+      {
+        "kr": "나중에",
+        "rom": "",
+        "en": "Later",
+        "category": "general"
+      },
+      {
+        "kr": "기사님",
+        "rom": "",
+        "en": "Driver (honorific)",
+        "category": "general"
+      },
+      {
+        "kr": "봐주세요",
+        "rom": "",
+        "en": "Please overlook / cut me some slack",
+        "category": "general"
       }
     ],
     "verbs": [
@@ -146,7 +194,9 @@
       {
         "id": "meokda",
         "en": "eat",
-        "objectTypes": ["food"],
+        "objectTypes": [
+          "food"
+        ],
         "placeParticle": "eseo",
         "past": "먹었어요",
         "pastRom": "MEO-GEO-SSEO-YO",
@@ -161,7 +211,9 @@
       {
         "id": "masida",
         "en": "drink",
-        "objectTypes": ["drink"],
+        "objectTypes": [
+          "drink"
+        ],
         "placeParticle": "eseo",
         "past": "마셨어요",
         "pastRom": "MA-SYEO-SSEO-YO",
@@ -176,7 +228,11 @@
       {
         "id": "sada",
         "en": "buy",
-        "objectTypes": ["food", "drink", "medicine"],
+        "objectTypes": [
+          "food",
+          "drink",
+          "medicine"
+        ],
         "placeParticle": "eseo",
         "past": "샀어요",
         "pastRom": "SA-SSEO-YO",
@@ -236,6 +292,54 @@
         "rom": "NAL-SSI",
         "en": "Weather",
         "category": "weather"
+      },
+      {
+        "kr": "얼마예요?",
+        "rom": "",
+        "en": "How much is it?",
+        "category": "general"
+      },
+      {
+        "kr": "만원",
+        "rom": "",
+        "en": "10,000 won (~$7)",
+        "category": "general"
+      },
+      {
+        "kr": "비싸요",
+        "rom": "",
+        "en": "Expensive",
+        "category": "general"
+      },
+      {
+        "kr": "싸요",
+        "rom": "",
+        "en": "Cheap",
+        "category": "general"
+      },
+      {
+        "kr": "모기",
+        "rom": "",
+        "en": "Mosquito",
+        "category": "general"
+      },
+      {
+        "kr": "나중에",
+        "rom": "",
+        "en": "Later",
+        "category": "general"
+      },
+      {
+        "kr": "기사님",
+        "rom": "",
+        "en": "Driver (honorific)",
+        "category": "general"
+      },
+      {
+        "kr": "봐주세요",
+        "rom": "",
+        "en": "Please overlook / cut me some slack",
+        "category": "general"
       }
     ],
     "adjectives": [
@@ -244,35 +348,50 @@
         "kr": "맛있어요",
         "rom": "MA-SHI-SSEO-YO",
         "en": "delicious",
-        "compatibleSubjects": ["food", "drink"]
+        "compatibleSubjects": [
+          "food",
+          "drink"
+        ]
       },
       {
         "id": "hot",
         "kr": "뜨거워요",
         "rom": "TTEU-GEO-WO-YO",
         "en": "hot",
-        "compatibleSubjects": ["food", "drink"]
+        "compatibleSubjects": [
+          "food",
+          "drink"
+        ]
       },
       {
         "id": "cold_temp",
         "kr": "차가워요",
         "rom": "CHA-GA-WO-YO",
         "en": "cold (to touch)",
-        "compatibleSubjects": ["food", "drink"]
+        "compatibleSubjects": [
+          "food",
+          "drink"
+        ]
       },
       {
         "id": "bitter",
         "kr": "써요",
         "rom": "SSEO-YO",
         "en": "bitter",
-        "compatibleSubjects": ["food", "drink", "medicine"]
+        "compatibleSubjects": [
+          "food",
+          "drink",
+          "medicine"
+        ]
       },
       {
         "id": "cold_weather",
         "kr": "추워요",
         "rom": "CHU-WO-YO",
         "en": "cold (weather)",
-        "compatibleSubjects": ["weather"]
+        "compatibleSubjects": [
+          "weather"
+        ]
       }
     ],
     "adverbs": [
@@ -402,6 +521,26 @@
             "kr": "줘요",
             "rom": "JWO-YO",
             "en": "give"
+          }
+        ]
+      },
+      {
+        "name": "Expressions",
+        "cards": [
+          {
+            "kr": "천 원",
+            "rom": "",
+            "en": "1,000 won (~$0.70)"
+          },
+          {
+            "kr": "두 개",
+            "rom": "",
+            "en": "Two (counter)"
+          },
+          {
+            "kr": "만원이에요",
+            "rom": "",
+            "en": "It's 10,000 won"
           }
         ]
       }
