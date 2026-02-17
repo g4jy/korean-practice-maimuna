@@ -173,6 +173,54 @@
         "rom": "",
         "en": "Please overlook / cut me some slack",
         "category": "general"
+      },
+      {
+        "kr": "월",
+        "rom": "WOL",
+        "en": "month",
+        "category": "general"
+      },
+      {
+        "kr": "원",
+        "rom": "WON",
+        "en": "won (Korean currency)",
+        "category": "general"
+      },
+      {
+        "kr": "시",
+        "rom": "SI",
+        "en": "o'clock / hour",
+        "category": "general"
+      },
+      {
+        "kr": "개",
+        "rom": "GAE",
+        "en": "counter for general objects",
+        "category": "general"
+      },
+      {
+        "kr": "마리",
+        "rom": "MA-RI",
+        "en": "counter for animals",
+        "category": "general"
+      },
+      {
+        "kr": "세",
+        "rom": "SE",
+        "en": "counter for birds",
+        "category": "general"
+      },
+      {
+        "kr": "새",
+        "rom": "SAE",
+        "en": "bird",
+        "category": "general"
+      },
+      {
+        "kr": "컵",
+        "rom": "KEOP",
+        "en": "cup",
+        "category": "general"
       }
     ],
     "verbs": [
@@ -339,6 +387,54 @@
         "kr": "봐주세요",
         "rom": "",
         "en": "Please overlook / cut me some slack",
+        "category": "general"
+      },
+      {
+        "kr": "월",
+        "rom": "WOL",
+        "en": "Month",
+        "category": "general"
+      },
+      {
+        "kr": "원",
+        "rom": "WON",
+        "en": "Won (korean currency)",
+        "category": "general"
+      },
+      {
+        "kr": "시",
+        "rom": "SI",
+        "en": "O'clock / hour",
+        "category": "general"
+      },
+      {
+        "kr": "개",
+        "rom": "GAE",
+        "en": "Counter for general objects",
+        "category": "general"
+      },
+      {
+        "kr": "마리",
+        "rom": "MA-RI",
+        "en": "Counter for animals",
+        "category": "general"
+      },
+      {
+        "kr": "세",
+        "rom": "SE",
+        "en": "Counter for birds",
+        "category": "general"
+      },
+      {
+        "kr": "새",
+        "rom": "SAE",
+        "en": "Bird",
+        "category": "general"
+      },
+      {
+        "kr": "컵",
+        "rom": "KEOP",
+        "en": "Cup",
         "category": "general"
       }
     ],
@@ -541,6 +637,136 @@
             "kr": "만원이에요",
             "rom": "",
             "en": "It's 10,000 won"
+          },
+          {
+            "kr": "일",
+            "rom": "IL",
+            "en": "one (Sino-Korean)"
+          },
+          {
+            "kr": "이",
+            "rom": "I",
+            "en": "two (Sino-Korean)"
+          },
+          {
+            "kr": "삼",
+            "rom": "SAM",
+            "en": "three (Sino-Korean)"
+          },
+          {
+            "kr": "사",
+            "rom": "SA",
+            "en": "four (Sino-Korean)"
+          },
+          {
+            "kr": "오",
+            "rom": "O",
+            "en": "five (Sino-Korean)"
+          },
+          {
+            "kr": "육",
+            "rom": "YUK",
+            "en": "six (Sino-Korean)"
+          },
+          {
+            "kr": "칠",
+            "rom": "CHIL",
+            "en": "seven (Sino-Korean)"
+          },
+          {
+            "kr": "팔",
+            "rom": "PAL",
+            "en": "eight (Sino-Korean)"
+          },
+          {
+            "kr": "구",
+            "rom": "GU",
+            "en": "nine (Sino-Korean)"
+          },
+          {
+            "kr": "십",
+            "rom": "SIP",
+            "en": "ten (Sino-Korean)"
+          },
+          {
+            "kr": "하나",
+            "rom": "HA-NA",
+            "en": "one (Native Korean)"
+          },
+          {
+            "kr": "둘",
+            "rom": "DUL",
+            "en": "two (Native Korean)"
+          },
+          {
+            "kr": "셋",
+            "rom": "SET",
+            "en": "three (Native Korean)"
+          },
+          {
+            "kr": "넷",
+            "rom": "NET",
+            "en": "four (Native Korean)"
+          },
+          {
+            "kr": "다섯",
+            "rom": "DA-SEOT",
+            "en": "five (Native Korean)"
+          },
+          {
+            "kr": "여섯",
+            "rom": "YEO-SEOT",
+            "en": "six (Native Korean)"
+          },
+          {
+            "kr": "일곱",
+            "rom": "IL-GOP",
+            "en": "seven (Native Korean)"
+          },
+          {
+            "kr": "여덟",
+            "rom": "YEO-DEOL",
+            "en": "eight (Native Korean)"
+          },
+          {
+            "kr": "아홉",
+            "rom": "A-HOP",
+            "en": "nine (Native Korean)"
+          },
+          {
+            "kr": "열",
+            "rom": "YEOL",
+            "en": "ten (Native Korean)"
+          },
+          {
+            "kr": "한",
+            "rom": "HAN",
+            "en": "one (contracted before counter)"
+          },
+          {
+            "kr": "두",
+            "rom": "DU",
+            "en": "two (contracted before counter)"
+          },
+          {
+            "kr": "세",
+            "rom": "SE",
+            "en": "three (contracted before counter)"
+          },
+          {
+            "kr": "하나만 주세요",
+            "rom": "HA-NA-MAN JU-SE-YO",
+            "en": "Please give me just one"
+          },
+          {
+            "kr": "만",
+            "rom": "MAN",
+            "en": "only, just"
+          },
+          {
+            "kr": "알았어요",
+            "rom": "AL-ASS-EO-YO",
+            "en": "I got it / I understand"
           }
         ]
       }
